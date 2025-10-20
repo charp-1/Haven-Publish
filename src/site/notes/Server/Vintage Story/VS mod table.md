@@ -47,6 +47,9 @@
 | [[Server/Vintage Story/Server Mods/Whole Lotta Tree Seeds\|Whole Lotta Tree Seeds]]                       | https://mods.vintagestory.at/wlts                        |
 | [[Server/Vintage Story/Server Mods/Zoom Button - Reborn\|Zoom Button - Reborn]]                           | https://mods.vintagestory.at/zoombutton                  |
 | [[Server/Vintage Story/Server Mods/Ancient Armory\|Ancient Armory]]                                       | https://mods.vintagestory.at/ancientarmory               |
+| [[Server/Vintage Story/Server Mods/Censership\|Censership]]                                               | https://mods.vintagestory.at/show/mod/33356              |
+| [[Server/Vintage Story/Server Mods/Footprints\|Footprints]]                                               | https://mods.vintagestory.at/show/mod/33245              |
+| [[Server/Vintage Story/Server Mods/Wind Chimes\|Wind Chimes]]                                             | https://mods.vintagestory.at/windchimes                  |
 
 { .block-language-dataview}
 
